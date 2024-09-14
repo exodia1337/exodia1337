@@ -1,5 +1,6 @@
+<h3>dominik, 15, ru</h3>
 <h3>software/reverse engineer.</h3>
-<h3>📍russia.</h3>
+
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=exodia1337&label=Profile%20views&color=0e75b6&style=flat" alt="exodia1337" />
